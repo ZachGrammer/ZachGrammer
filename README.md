@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZachGrammer
 - 👀 I’m interested in Data Science and Software Engineering
-- 🧑‍💻 I'm currently looking for internships inside the United States in data analysis or software engineering positions
+- 🧑‍💻 I'm currently looking for positions inside the United States in data analysis or software engineering positions
 - 📫 You can contact me at zgram756@gmail.com
 
 <!---
